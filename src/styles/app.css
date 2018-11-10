@@ -54,3 +54,10 @@
   border-bottom: 1px solid;
 }
 
+@media all and (max-width: 768px) {
+  .app .box,
+  .app .container-button {
+    width: 90%;
+  }
+}
+
