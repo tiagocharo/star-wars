@@ -1,21 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project was published with Netlify [https://starwars.netlify.com/](https://starwars.netlify.com/).
+This project was published with Netlify [https://starwar.netlify.com/](https://starwar.netlify.com/).
 
 ## Star Wars
 
-**First step**
+**First step:**
 git clone https://github.com/tiagocharo/star-wars.git
 
-**Second step**
+**Second step:**
 cd star-wars
 
-**Third step**
-npm start
-
-**Fourth step**
+**Third step:**
 npm install
 
-**Fifth step**
+**Fourth step:**
+npm start
+
+**Fifth step:**
 Open http://localhost:3000 to view it in the browser.
 
 ## Learn More
